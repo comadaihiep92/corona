@@ -15,7 +15,6 @@ html {
   margin-right: auto;
   box-sizing: border-box;
 }
-
 #corona .corona__top {
   padding: 30px 70px 0;
   background: linear-gradient(90deg, #020024 0%, #459920 0%, #6be735 100%);
@@ -24,13 +23,11 @@ html {
   align-items: flex-end;
   padding-bottom: 25px;
 }
-
 #corona .corona__left {
   padding-top: 45px;
   padding-bottom: 70px;
   width: 55%;
 }
-
 #corona .corona__left h2 {
   font-size: 55px;
   text-transform: uppercase;
@@ -39,7 +36,6 @@ html {
   line-height: 55px;
   margin-bottom: 35px;
 }
-
 #corona .corona__left p {
   font-size: 30px;
   color: #ffd419;
@@ -47,7 +43,6 @@ html {
   margin-bottom: 25px;
   font-weight: 600;
 }
-
 #corona .corona__left ul {
   display: flex;
   flex-direction: column;
@@ -56,24 +51,20 @@ html {
   justify-content: center;
   list-style: none;
 }
-
 #corona .corona__left li {
   margin-bottom: 15px;
   display: flex;
   align-items: center;
 }
-
 #corona .corona__left img {
   margin-right: 10px;
 }
-
 #corona .corona__left span {
   font-size: 22px;
   line-height: 24px;
   color: #fff;
   opacity: 0.8;
 }
-
 #corona .corona__mid {
   background: #ff671f;
   border-top-left-radius: 25px;
@@ -81,12 +72,10 @@ html {
   z-index: 999;
   margin-top: -27px;
 }
-
 #corona .corona__bottom {
   background: #ff671f;
   padding: 80px 70px;
 }
-
 #corona .corona__item {
   width: 100%;
   display: flex;
@@ -97,13 +86,11 @@ html {
   padding-right: 50px;
   box-sizing: border-box;
 }
-
 #corona .corona__item--border {
   border: 1px solid white;
   border-radius: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
 }
-
 #corona .corona__item h2 {
   font-size: 40px;
   line-height: 45px;
@@ -111,7 +98,6 @@ html {
   color: #fff;
   margin-bottom: 80px;
 }
-
 #corona .corona__item ul {
   width: 100%;
   display: flex;
@@ -119,7 +105,6 @@ html {
   list-style: none;
   justify-content: space-between;
 }
-
 #corona .corona__item li {
   width: 31.33%;
   display: flex;
@@ -127,18 +112,15 @@ html {
   justify-content: flex-start;
   margin-bottom: 80px;
 }
-
 #corona .corona__item img {
   margin-right: 20px;
 }
-
 #corona .corona__item span {
   color: #fff;
   opacity: 0.7;
   font-size: 16px;
   line-height: 20px;
 }
-
 #corona .corona__todo {
   width: 100%;
   display: flex;
@@ -150,7 +132,6 @@ html {
   font-weight: bold;
   margin-bottom: 40px;
 }
-
 #corona .corona__todo img {
   margin-right: 10px;
 }
@@ -189,7 +170,6 @@ html {
     margin-top: -33px;
   }
 }
-
 @media (max-width: 991.98px) {
   #corona .corona__item ul {
     flex-direction: column;
@@ -201,7 +181,6 @@ html {
     justify-content: flex-start;
   }
 }
-
 @media (max-width: 767.98px) {
   #corona .corona__item {
     padding: 50px 20px;
@@ -239,7 +218,6 @@ html {
     width: 100%;
   }
 }
-
 @media (max-width: 575.98px) {
   #corona .corona__bottom {
     padding: 5px;

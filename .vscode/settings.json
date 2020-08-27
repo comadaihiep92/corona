@@ -3,5 +3,6 @@
     "compile-hero.javascript-output-toggle": false,
     "compile-hero.pug-output-directory": "./",
     "compile-hero.sass-output-directory": "./css",
-    "compile-hero.scss-output-directory": "./css"
+    "compile-hero.scss-output-directory": "./css",
+    "liveServer.settings.port": 5501
 }
