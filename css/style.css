@@ -58,6 +58,7 @@ html {
 }
 #corona .corona__left img {
   margin-right: 10px;
+  min-width: 22px;
 }
 #corona .corona__left span {
   font-size: 22px;
@@ -114,6 +115,7 @@ html {
 }
 #corona .corona__item img {
   margin-right: 20px;
+  min-width: 90px;
 }
 #corona .corona__item span {
   color: #fff;
@@ -134,6 +136,7 @@ html {
 }
 #corona .corona__todo img {
   margin-right: 10px;
+  min-width: 22px;
 }
 
 @media (max-width: 1199.98px) {
